@@ -67,3 +67,17 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# macOS
+.DS_Store
+
+# OMNeT++ / INET
+out/
+results/
+*_m.cc
+*_m.h
+*.vec
+*.sca
+*.vci
+*.elog
+.qtenvrc
