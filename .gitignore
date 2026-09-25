@@ -1,3 +1,6 @@
+# We do not track my personal local folder, Philip
+/DONT_TRACK_THIS_FOLDER
+
 # Prerequisites
 *.d
 
